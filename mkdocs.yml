@@ -1,0 +1,15 @@
+site_name: Synara Highmark v3.5 – Atlas Relay Docs
+nav:
+  - Overview: index.md
+  - Setup: setup.md
+  - Configuration: config.md
+  - Telemetry: telemetry.md
+  - Metrics: metrics.md
+  - Workflows: workflows.md
+  - Ledger: ledger.md
+  - Architecture: architecture.md
+  - Testing: testing.md
+  - Roadmap: roadmap.md
+  - Validation: validation.md
+  - Troubleshooting: troubleshooting.md
+  - License: license.md
